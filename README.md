@@ -39,3 +39,11 @@ Expected Result
 
 
 ![query_3_img](images/query3_result.png)
+
+	Query 4 | Identifying Bad Records
+ Link: [query4_Identifying_Bad_Records.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query4_identifying_bad_records.sql)
+
+ Problem - The finance team needs to audit the invoices they send out. The data team will need to write a query to identify bad invoice records without a CustomerId or a price of 0
+
+
+![query_4_img](images/query4_result.png)
