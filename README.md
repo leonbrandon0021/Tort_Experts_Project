@@ -21,7 +21,7 @@ Expected Result
 
  Problem - The table did not have any primary or foreign keys set up when it was created. It is important to establish these relationships between tables and define the uniqueness of certain fields.
 
-*Unfortunately, GBQ does not allow for enforcement of uniqueness after a table was created
+*GBQ does not allow for enforcement of uniqueness after a table was created
 
 **Customer Table does not exist in my GBQ dataset. Which is why no foreign key was created. Query is used to show how that key would be created if said table did exist
 
