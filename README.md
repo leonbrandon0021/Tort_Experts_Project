@@ -15,3 +15,18 @@ Problem - Often, data imports can be messy. A typical issue occurs when a csv fi
 
 Expected Result
 ![query_1_img](images/query1_result.png)
+
+	Query 2 | Creating Primary and Foreign Keys
+
+ Problem - The table did not have any primary or foreign keys set up when it was created. It is important to establish these relationships between tables and define the uniqueness of certain fields.
+
+*Unfortunately, GBQ does not allow for enforcement of uniqueness after a table was created
+
+**Customer Table does not exist in my GBQ dataset. Which is why no foreign key was created. Query is used to show how that key would be created if said table did exist
+
+
+![query_1_img](images/query2_schema.png)
+
+Expected Result
+
+![query_1_img](images/query2_result.png)
