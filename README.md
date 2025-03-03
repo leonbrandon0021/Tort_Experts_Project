@@ -38,4 +38,4 @@ Expected Result
  Problem - Leadership wants to know the top 10 countries that are contributing to the marketing revenue. Additionally, they want to know the total quantity of products sold and the number of invoices created.
 
 
-![query_3_img](images/query2_schema.png)
+![query_3_img](images/query3_result.png)
