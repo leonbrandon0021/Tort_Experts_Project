@@ -32,7 +32,7 @@ Expected Result
 
 ![query_1_img](images/query2_result.png)
 
-	Query 3 | top 10 Countries
+	Query 3 | Top 10 Countries
  Link: [query3_Top_10_Countries.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query3_top_10_countries.sql)
 
  Problem - Leadership wants to know the top 10 countries that are contributing to the marketing revenue. Additionally, they want to know the total quantity of products sold and the number of invoices created.
