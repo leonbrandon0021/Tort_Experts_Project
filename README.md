@@ -1,4 +1,4 @@
-For Tort Experts - Marketing Coding Project
+For Tort Experts - Marketing SQL Project
 
 Created By Brandon Leon
 
