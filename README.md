@@ -5,7 +5,7 @@ Created By Brandon Leon
 
 Query 1 | Fixing the Schema
 
-Link:
+Link: queries/query1.sql
 
 ![query_1_img](images/query1_schema.png)
  
