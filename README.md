@@ -6,7 +6,7 @@ Purpose - To demonstrate how SQL can be used to update tables, filter data, and 
 
 	Query 1 | Fixing the Schema
  
-Link: [queries/query1.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query1_updating_field_names.sql)
+Link: [query1_updating_field_names.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query1_updating_field_names.sql)
 
 Problem - Often, data imports can be messy. A typical issue occurs when a csv file incorrectly parses out the field (column) names and a data engineer will need to rename the fields
 
@@ -17,6 +17,7 @@ Expected Result
 ![query_1_img](images/query1_result.png)
 
 	Query 2 | Creating Primary and Foreign Keys
+ Link: [query2_updating_keys.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query2_updating_keys.sql)
 
  Problem - The table did not have any primary or foreign keys set up when it was created. It is important to establish these relationships between tables and define the uniqueness of certain fields.
 
@@ -30,3 +31,11 @@ Expected Result
 Expected Result
 
 ![query_1_img](images/query2_result.png)
+
+	Query 3 | top 10 Countries
+ Link: [query3_Top_10_Countries.sql](https://github.com/leonbrandon0021/retail_marketing_project/blob/main/queries/query3_top_10_countries.sql)
+
+ Problem - Leadership wants to know the top 10 countries that are contributing to the marketing revenue. Additionally, they want to know the total quantity of products sold and the number of invoices created.
+
+
+![query_3_img](images/query2_schema.png)
