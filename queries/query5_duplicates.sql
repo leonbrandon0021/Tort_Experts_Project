@@ -7,6 +7,8 @@
   HAVING COUNT(*) > 1
 )
 
+--Self join duplicate table to original table to return all records
+
 SELECT
 d.*
 FROM duplicates d
